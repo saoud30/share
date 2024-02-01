@@ -1,0 +1,1 @@
+crunch 9 9 -o - -t air%%%%% | sed 's/\(.\)/\1\1\1\1\1/g' > wordlist.txt
