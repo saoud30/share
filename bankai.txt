@@ -1,0 +1,1 @@
+crunch 9 9 -o wordlist.txt -t air%%%%% -s 0123456789
